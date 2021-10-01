@@ -4,7 +4,14 @@ height: 500px;
         
 }
 .menu{
-font-variant: awesome; 
-    text-decoration: underline;
-    
+font-variant: fantasy; 
+    display: inline;
+    list-style: none;
+    background-color: aqua;
+}
+
+.links{
+ display: inline;
+    margin-left: 10px;
+    margin-right: 10px;
 }
